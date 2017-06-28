@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[YSA Club]</name>
+    <name>[ysa club]</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
-    <author href="http://scratch.mit.edu/users/[YSAClub1]" email="[ysaclub1@gmail.com]">
-        [YSACLUB1]
+    <author href="http://scratch.mit.edu/users/[ysaclub1]" email="[ysaclub1@gmail.com]">
+        [ysaclub1]
     </author>
 
 </widget>
