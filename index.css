@@ -3,7 +3,7 @@ body {
   margin: 24px auto 0;
   padding-bottom: 24px;
 }
-.title {
+.title {Welcome to YSA App}
   margin: 16px 0 0;
   position: relative;
 }
@@ -142,3 +142,6 @@ code {
   box-sizing: border-box;
   color: rgba(0, 0, 0, .7);
 }
+
+git remote add origin https://github.com/ysaclub1/averil.git
+git push -u origin master
