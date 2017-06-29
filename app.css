@@ -1,5 +1,5 @@
 body {
-  background: #000;
+  background: #39E8C5;
   margin: 0;
   overflow: hidden;
 }
@@ -34,7 +34,7 @@ body {
   margin: 0 auto;
 }
 .progress-bar {
-  background: #fff;
+  background: #BE7BEE;
   width: 10%;
   height: 100%;
 }
