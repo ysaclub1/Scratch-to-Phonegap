@@ -5,12 +5,6 @@
         versionCode = "10" 
         version     = "1.0.0" >
 
-echo "# averil" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ysaclub1/averil.git
-git push -u origin master
         
     <!-- versionCode is optional and Android only -->
 
